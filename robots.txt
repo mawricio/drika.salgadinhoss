@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Após definir o domínio oficial, gere e publique também um sitemap.xml.
